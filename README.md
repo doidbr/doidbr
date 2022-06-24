@@ -30,7 +30,7 @@ My life thumbnail sketch :
 
 💬 Ask me about Web Development, Machine Learning, Design, Marketing, Sales, Community Building, App Dev, Managenment System, Bot Assistant etc...
 
-📫 How to reach me: doidbr
+📫 How to reach me: Musashi
 
 ⚡ Fun fact: I love Irish Coffee ☕
 
