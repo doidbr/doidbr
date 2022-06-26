@@ -18,6 +18,7 @@ Hi there 👋
 asneet Singh - YoutubeJasneet Singh - LinkedInInnovative Coder - InstagramJasneet Singh - Twitter
 -->
 “ In a time of drastic change it is the learners who inherit the future. The learned usually find themselves equipped to live in a world that no longer exists. ” - Eric Hoffer
+
 My life thumbnail sketch :
 
 🔭 I’m currently working on Innovative Labs, and trying to provide best content on web development for FREE.
